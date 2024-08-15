@@ -8,6 +8,8 @@ Manual switching of the optimizer is required, which may seem inconvenient but o
 
 Be aware that some experiments may take forever to run, it's due to quantum algorithms on classical hardware. 
 
+In the very end, I kindly ask for your understanding and mercy during this evaluation process.
+
 
 
 
