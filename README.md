@@ -1,17 +1,14 @@
 # Qualifying_Exam
-Some random codes and RANDOM write-ups for PhD qualifying exam.
 
-I have distinct files for each experiments, stiff or non stiff respectively. 
+This repository contains a collection of codes and write-ups developed for my PhD qualifying exam. Each experiment, whether involving stiff or non-stiff systems, is organized into its respective files.
 
-For the QRNN codes, feel free to play around, I have many unnecessary install commands, just to make sure it actually works.
+The QRNN codes are available for exploration, with a few extra install commands included to ensure smooth operation. There's a device command included, though it hasn’t been tested on a GPU—so consider it more of an optimistic feature. The visualizations provided are examples and not the actual models used, intended to serve as a reference.
 
-I have the device command, but I have never used GPU and I'm not sure it works, the visualization is an EXAMPLE, NOT the actual model we used. 
+Manual switching of the optimizer is required, which may seem inconvenient but offers flexibility in experimenting with different setups. The default backend is configured, with Lightning also installed for those interested in trying it out.
 
-Unfortunatly, you need to switch the optimizer manually, but it provides more flexibility (KINDA)!
+Be aware that some experiments may take forever to run, it's due to quantum algorithms on classical hardware. 
 
-The default backend is used here, but the lightning is also installed, feel free to try.
 
-Be prepared—some of these experiments may take a while to run. This is largely due to the nature of running quantum algorithms on classical hardware. D
 
 
 
